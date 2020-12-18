@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*pipeline": "groovy",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "*.wxts": "typescript",
+        "*.html": "wxml",
+        "*.wxml": "wxml",
+        "*.json5": "jsonc",
+        ".htmlhintrc": "json",
+        ".stylelintrc": "json",
+        ".prettierrc": "json",
+        "*.cjson": "jsonc",
+        "typeinfo": "cpp",
+        "cstdlib": "c"
+    }
+}
